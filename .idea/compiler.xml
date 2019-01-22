@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-petclinic-api-gateway" />
+        <module name="spring-petclinic-customers-service" />
+        <module name="spring-petclinic-monitoring" />
+        <module name="spring-petclinic-vets-service" />
+        <module name="spring-petclinic-visits-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-petclinic-api-gateway" target="1.8" />
+      <module name="spring-petclinic-customers-service" target="1.8" />
+      <module name="spring-petclinic-microservices" target="1.8" />
+      <module name="spring-petclinic-monitoring" target="1.8" />
+      <module name="spring-petclinic-vets-service" target="1.8" />
+      <module name="spring-petclinic-visits-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
