@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="spring-petclinic-vets-service:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/spring_petclinic_vets_service_jar</output-path>
+    <output-path>$PROJECT_DIR$/spring-petclinic-vets-service/target</output-path>
     <root id="archive" name="spring-petclinic-vets-service.jar">
       <element id="module-output" name="spring-petclinic-vets-service" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-logging/1.5.9.RELEASE/spring-boot-starter-logging-1.5.9.RELEASE.jar" path-in-jar="/" />

@@ -34,9 +34,14 @@ class PersistenceContext {
     DataSource dataSource() {
         DataSourceBuilder dataSourceBuilder = DataSourceBuilder.create();
 
+        /*
         String hostinfo = System.getenv("MYSQL_HOSTINFO");
         String username = System.getenv("MYSQL_USERNAME");
         String password = System.getenv("MYSQL_PASSWORD");
+*/
+        String hostinfo = "1.0.0.12:32001";
+        String username = "root";
+        String password = "it1it1";
         
         dataSourceBuilder.url("jdbc:mysql://"+hostinfo+"/petclinic?useUnicode=true");
         dataSourceBuilder.username(username);

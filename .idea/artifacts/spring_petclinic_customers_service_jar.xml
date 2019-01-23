@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="spring-petclinic-customers-service:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/spring_petclinic_customers_service_jar</output-path>
+    <output-path>$PROJECT_DIR$/spring-petclinic-customers-service/target</output-path>
     <root id="archive" name="spring-petclinic-customers-service.jar">
       <element id="module-output" name="spring-petclinic-customers-service" />
       <element id="module-output" name="spring-petclinic-monitoring" />

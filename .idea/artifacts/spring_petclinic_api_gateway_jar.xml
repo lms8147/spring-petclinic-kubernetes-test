@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="spring-petclinic-api-gateway:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/spring_petclinic_api_gateway_jar</output-path>
+    <output-path>$PROJECT_DIR$/spring-petclinic-api-gateway/target</output-path>
     <root id="archive" name="spring-petclinic-api-gateway.jar">
       <element id="module-output" name="spring-petclinic-api-gateway" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-devtools/1.5.9.RELEASE/spring-boot-devtools-1.5.9.RELEASE.jar" path-in-jar="/" />

@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build . -t hongjs/spring-petclinic-api-gateway
+docker build . -t lms8147/spring-petclinic-api-gateway:0.1

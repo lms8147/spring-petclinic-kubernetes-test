@@ -14,7 +14,7 @@ spec:
         tier: api-gateway
     spec:
       containers:
-        - image: hongjs/spring-petclinic-api-gateway:latest
+        - image: lms8147/spring-petclinic-api-gateway:latest
           imagePullPolicy: Always
           name: api-gateway
           ports:

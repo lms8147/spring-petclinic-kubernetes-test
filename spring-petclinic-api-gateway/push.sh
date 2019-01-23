@@ -1,2 +1,2 @@
 #!/bin/sh
-docker push hongjs/spring-petclinic-api-gateway:latest
+docker push lms8147/spring-petclinic-api-gateway:0.1
