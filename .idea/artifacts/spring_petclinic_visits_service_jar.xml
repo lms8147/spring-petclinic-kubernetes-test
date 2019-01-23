@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="jar" name="spring-petclinic-visits-service:jar">
-    <output-path>$PROJECT_DIR$/spring-petclinic-visits-service/target</output-path>
+    <output-path>$PROJECT_DIR$/spring-petclinic-visits-service/out</output-path>
     <root id="archive" name="spring-petclinic-visits-service.jar">
       <element id="module-output" name="spring-petclinic-visits-service" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.13.RELEASE/spring-aop-4.3.13.RELEASE.jar" path-in-jar="/" />

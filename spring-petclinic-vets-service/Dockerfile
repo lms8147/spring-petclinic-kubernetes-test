@@ -1,6 +1,6 @@
 FROM java:8
 VOLUME /tmp
-ADD target/spring-petclinic-vets-service.jar /app.jar
+ADD out/spring-petclinic-vets-service.jar /app.jar
 #ENV SPRING_PROFILES_ACTIVE docker
 RUN bash -c 'touch /app.jar'
 
